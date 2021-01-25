@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " :austria: Welcome to Jekyll!"
+title:  "🇦🇴 Welcome to Jekyll!"
 date:   2020-10-26 08:09:25 -0300
 categories: jekyll update
 ---
